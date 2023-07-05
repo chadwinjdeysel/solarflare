@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WvRBaPEannVqh5zXA69bBGDuTwNRwvZbtl0ns3NgRE0=",
+  "Source": "solarflare.api",
+  "BasePath": "_content/solarflare.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
